@@ -1,7 +1,7 @@
 # 6th-Novice
 
 ## 📢 발표 안내
-- [발표 자료]()
+- [발표 자료](https://github.com/Ewha-Euron/6th-Novice/blob/ecade6b22b14a7b884b44603f72b6f0e51c03c03/Week%209_1%EC%A1%B0_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
 - 발표자: 1팀(김선향, 정현빈, 권나영, 박혜진)
 - 파머완 5장 실습 + 캐글 필사
   - 캐글 자전거 수요 예측
